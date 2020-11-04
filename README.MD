@@ -2,7 +2,7 @@
 
 - Full stack web developer from Houston, Texas
 - I'm currently learning everything!
-- [Check out my portfolio! ][https://www.carloshernandez.tech/]
+- [Check out my portfolio!][https://www.carloshernandez.tech/]
 
 From the first line of code to last project I worked, I keep learning new
 things, new technologies, new best pratices and there's always something more to
