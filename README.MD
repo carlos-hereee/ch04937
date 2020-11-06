@@ -3,8 +3,6 @@
 - Full stack web developer from Houston, Texas
 - I'm currently learning everything!
 
-From the first line of code to last project I worked, I keep learning new
-things, new technologies, new best pratices and there's always something more to
-learn, and that's my favorite part about being a programmer!
+From the first line of code to last project I worked on as well as new technologies to new best pratices; there's always something more for me to learn. That's what I love the most about being a developer!
 
 [website]: https://www.carloshernandez.tech/
